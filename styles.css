@@ -13,3 +13,8 @@ p {
 li {
     color: blue;
 }
+*{
+    margin: 0;
+    padding: 0;
+}
+
